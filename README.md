@@ -1,7 +1,18 @@
 Comic-books-browser
 ===================
 
-This sample is target at smoothing the browsing , 
+This sample is target at smoothing the browsing .
+
+My exp:
+
+i'v been look much comic books website , when you click next page , it will
+
+reload the page again , so i use ajax to solve this problem , but the browser has to
+
+remember what you looked 
+
+
+==========
 
 its get the content data by ajax , so if you click next page
 
